@@ -27,6 +27,9 @@ https://colab.research.google.com/drive/1cu5LVgnAqIZ3_E-RCG--ckQrRmCl60gk#scroll
 ### Base model with CbD model (Prospect theory,Deterministic, same alphas): 
 https://colab.research.google.com/drive/1j17U27bnjx8BLrCHe6Hk6GJ2ewXVZRch#scrollTo=u_lMk7H0dEMb
 
+----------------------------------------
+### Pre-Requisites
+
 For any given dataset, User needs to run all the cells in a model (in respective order) to get the results.
 
 Parameter optimization and obtaining results are seperate parts in each model:
