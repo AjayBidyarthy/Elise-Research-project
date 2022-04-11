@@ -15,7 +15,7 @@ https://colab.research.google.com/drive/1D7tC_xfKbl2bHJWqD_Tx_vNGA4VGTEQO#scroll
 ### Base model augmented with CbD (Risk neutral, Deterministic):     
 https://colab.research.google.com/drive/1Tbn_-kuHqtI-GY_zJtBpEVB8o4YScOgt#scrollTo=p_5RB0lxTzER
 ### Base model augmented with CbD (Risk neutral, softmax):           
-https://colab.research.google.com/drive/1D7tC_xfKbl2bHJWqD_Tx_vNGA4VGTEQO  
+https://colab.research.google.com/drive/1Wt14_2crqnytTu_tpLPD1714KDLI6mAS?usp=sharing
 ### Base model augmented with CbD (prospect theory, Deterministic): 
 https://colab.research.google.com/drive/1xq-PNAiFLNn3YvDMVlzU41dEmHPFcKda
 ### Base model augmented with CbD (prospect thoery, softmax):       
