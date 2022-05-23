@@ -25,7 +25,11 @@ https://colab.research.google.com/drive/1SPueKt7STUlSWRJyFl7Rh0VlqrY_EGNt
 ### Base model with CbD(Risk neutral,Deterministic,multiplicative):     
 https://colab.research.google.com/drive/1cu5LVgnAqIZ3_E-RCG--ckQrRmCl60gk#scrollTo=HEdAMHXFQ3B4
 ### Base model with CbD model (Prospect theory,Deterministic, same alphas): 
-https://colab.research.google.com/drive/1j17U27bnjx8BLrCHe6Hk6GJ2ewXVZRch#scrollTo=u_lMk7H0dEMb
+https://colab.research.google.com/drive/1j17U27bnjx8BLrCHe6Hk6GJ2ewXVZRch#scrollTo=u_lMk7H0dEMb 
+### Time-Varying DA model (risk neutral, softmax):
+https://colab.research.google.com/drive/17SA9gZhswWfl9Lf5D5cf-NHJ8iAWl1WO?usp=sharing 
+### Time-Varying DA model (prospect theory, softmax):
+https://colab.research.google.com/drive/1opH4mnwY24d06DXIO5IUOxjidpRU2pu9?usp=sharing 
 
 ----------------------------------------
 ### Pre-Requisites
