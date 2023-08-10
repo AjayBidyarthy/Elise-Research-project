@@ -3,33 +3,46 @@
 #### The links for all the models:
 
 ### Base model (Risk neutral, Deterministic):    
-https://colab.research.google.com/drive/1PmFu4ag0u-NyT3VuozFW7SLzySX3IUt7
+https://colab.research.google.com/drive/1PmFu4ag0u-NyT3VuozFW7SLzySX3IUt7?usp=sharing
+
 ### Base model (Risk neutral, softmax):          
-https://colab.research.google.com/drive/1KY-ka-OCxh9041ljZgDk3am7zDkpfoUT
+https://colab.research.google.com/drive/1KY-ka-OCxh9041ljZgDk3am7zDkpfoUT?usp=sharing
+
 ### Base model (prospect theory, Deterministic): 
-https://colab.research.google.com/drive/1VGiiu2DhEdwVbodbJ39R-5HkjUvaT6uG#scrollTo=s3d5eXUPhCbk
+https://colab.research.google.com/drive/1VGiiu2DhEdwVbodbJ39R-5HkjUvaT6uG?usp=sharing
+
 ### Base model (prospect theory, softmax):        
-https://colab.research.google.com/drive/18EwjnBz0eb6jYY5sp28JWcWYmTLGttSx#scrollTo=u_lMk7H0dEMb
+https://colab.research.google.com/drive/18EwjnBz0eb6jYY5sp28JWcWYmTLGttSx?usp=sharing
+
 ### Base model with Gambler's Fallacy:           
-https://colab.research.google.com/drive/1D7tC_xfKbl2bHJWqD_Tx_vNGA4VGTEQO#scrollTo=1fjX2jxWyl67
+https://colab.research.google.com/drive/1D7tC_xfKbl2bHJWqD_Tx_vNGA4VGTEQO?usp=sharing
+
 ### Base model augmented with CbD (Risk neutral, Deterministic):     
-https://colab.research.google.com/drive/1Tbn_-kuHqtI-GY_zJtBpEVB8o4YScOgt#scrollTo=p_5RB0lxTzER
+https://colab.research.google.com/drive/1Tbn_-kuHqtI-GY_zJtBpEVB8o4YScOgt?usp=sharing
+
 ### Base model augmented with CbD (Risk neutral, softmax):           
 https://colab.research.google.com/drive/1Wt14_2crqnytTu_tpLPD1714KDLI6mAS?usp=sharing
+
 ### Base model augmented with CbD (prospect theory, Deterministic): 
-https://colab.research.google.com/drive/1xq-PNAiFLNn3YvDMVlzU41dEmHPFcKda
+https://colab.research.google.com/drive/1xq-PNAiFLNn3YvDMVlzU41dEmHPFcKda?usp=sharing
+
 ### Base model augmented with CbD (prospect thoery, softmax):       
-https://colab.research.google.com/drive/1JNYxjhVVdtVgYyk74zhbYQYhtm8Fhq9i
+https://colab.research.google.com/drive/1JNYxjhVVdtVgYyk74zhbYQYhtm8Fhq9i?usp=sharing
+
 ### Base model augmented with CbD (modified probability function, Risk neutral, softmax):  
-https://colab.research.google.com/drive/1SPueKt7STUlSWRJyFl7Rh0VlqrY_EGNt
+https://colab.research.google.com/drive/1SPueKt7STUlSWRJyFl7Rh0VlqrY_EGNt?usp=sharing
+
 ### Base model with CbD(Risk neutral,Deterministic,multiplicative):     
-https://colab.research.google.com/drive/1cu5LVgnAqIZ3_E-RCG--ckQrRmCl60gk#scrollTo=HEdAMHXFQ3B4
+https://colab.research.google.com/drive/1cu5LVgnAqIZ3_E-RCG--ckQrRmCl60gk?usp=sharing
+
 ### Base model with CbD model (Prospect theory,Deterministic, same alphas): 
-https://colab.research.google.com/drive/1j17U27bnjx8BLrCHe6Hk6GJ2ewXVZRch#scrollTo=u_lMk7H0dEMb 
+https://colab.research.google.com/drive/1j17U27bnjx8BLrCHe6Hk6GJ2ewXVZRch?usp=sharing
+
 ### Time-Varying DA model (risk neutral, softmax):
-https://colab.research.google.com/drive/17SA9gZhswWfl9Lf5D5cf-NHJ8iAWl1WO?usp=sharing 
+Get it from jupitor notebook file
+
 ### Time-Varying DA model (prospect theory, softmax):
-https://colab.research.google.com/drive/1opH4mnwY24d06DXIO5IUOxjidpRU2pu9?usp=sharing 
+Get it from Jupitor Notebook file.
 
 ----------------------------------------
 ### Pre-Requisites
